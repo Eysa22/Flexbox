@@ -1,0 +1,23 @@
+.box{
+    border: 4px solid black;
+    width: 100px;
+    height: 100px;
+}
+
+.box-small{
+    width: 50px;
+    height: 50px;
+    margin-left: 24px;
+}
+
+.children1{
+    display: flex;
+    align-items: center;
+}
+
+.container{
+    border: 4px solid gray;
+    display: flex;
+    justify-content:space-between;
+    padding: 20px;
+}
